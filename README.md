@@ -78,7 +78,7 @@ The following accounts were successfully created:
 The screenshots folder contains:
 
 - GitHub Account Screenshot
-  
+  https://github.com/AfnanAliMLEng/coretech-ai-ml-internship/blob/main/Screenshot%202026-06-03%20110536.png
 - Kaggle Account Screenshot
   
 - Google Colab Notebook Screenshot
