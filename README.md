@@ -82,7 +82,7 @@ The screenshots folder contains:
 - Kaggle Account Screenshot
   
 - Google Colab Notebook Screenshot
-
+https://github.com/AfnanAliMLEng/coretech-ai-ml-internship/blob/main/Screenshot%202026-06-03%20105459.png
 ---
 
 ## Repository Structure
