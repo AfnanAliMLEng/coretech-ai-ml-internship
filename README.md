@@ -1,94 +1,68 @@
-#CoreTech AI/ML Internship
+# CoreTech AI/ML Internship
 
-##Task 01: Account Setup and AI/ML Introduction
+## Task 01: Account Setup and AI/ML Introduction
 
-###Intern Information
+### Intern Information
 
-Name: Afnan Ali
-Education: 2nd Year IT Student
-City: Kazi Ahmed, Sindh, Pakistan
-
-
----
-
-Introduction
-
-My name is Afnan Ali, and I am a second-year Information Technology student. I am passionate about technology and interested in learning Artificial Intelligence and Machine Learning. I enjoy exploring new tools, programming concepts, and modern technologies. Through this internship, I aim to develop practical AI/ML skills and gain experience in solving real-world problems using intelligent systems.
-
+*Name:* Rimsha Shahani
+*Education:* BS Computer Science
+*City:* Ranipur
 
 ---
 
-What is Artificial Intelligence (AI)?
+## Introduction
 
-Artificial Intelligence (AI) is a technology that enables computers and machines to perform tasks that normally require human intelligence, such as understanding information, making decisions, recognizing patterns, and solving problems.
-
-
----
-
-What is Machine Learning (ML)?
-
-Machine Learning (ML) is a field of AI that allows computers to learn from data and improve their performance automatically without being specifically programmed for every task.
-
+I am a BS Computer Science student with a strong interest in Artificial Intelligence and Machine Learning. I enjoy learning new technologies and developing solutions to real-world problems. My goal is to build intelligent systems that can help improve efficiency and decision-making through data-driven approaches.
 
 ---
 
-What is Deep Learning (DL)?
+## What is Artificial Intelligence (AI)?
 
-Deep Learning (DL) is an advanced branch of Machine Learning that uses artificial neural networks to process large amounts of data and perform complex tasks such as image recognition, language translation, and speech processing.
-
-
----
-
-Difference Between AI, ML, and DL
-
-AI	ML	DL
-
-Broad field of creating intelligent systems.	Subset of AI that learns from data.	Subset of ML that uses neural networks.
-Focuses on simulating human intelligence.	Focuses on learning patterns from data.	Focuses on solving complex problems with large datasets.
-Includes ML, DL, robotics, and expert systems.	Includes supervised, unsupervised, and reinforcement learning.	Uses multiple hidden layers for learning.
-
-
-Hierarchy: AI → ML → DL
-
+Artificial Intelligence (AI) is the ability of machines to perform tasks that normally require human intelligence, such as learning, reasoning, problem-solving, and decision-making.
 
 ---
 
-How AI/ML Can Help CoreTech Innovation:
+## What is Machine Learning (ML)?
 
-. Automate repetitive business operations and save time.
-
-. Improve software products with intelligent features.
-
-. Analyze customer and business data for better insights.
-
-. Develop smart chatbots for customer support.
-
-. Predict future trends and user behavior.
-
-. Enhance decision-making using data-driven solutions.
-
-. Increase productivity and operational efficiency.
-
-
+Machine Learning (ML) is a branch of AI that enables computers to learn from data and improve their performance without being explicitly programmed.
 
 ---
 
-Screenshots
+## What is Deep Learning (DL)?
+
+Deep Learning (DL) is a subset of Machine Learning that uses neural networks with multiple layers to learn complex patterns from large amounts of data.
+
+---
+
+## Difference Between AI, ML, and DL
+
+Artificial Intelligence (AI) is the broad field of creating intelligent machines. Machine Learning (ML) is a subset of AI that allows systems to learn from data. Deep Learning (DL) is a subset of ML that uses deep neural networks to solve complex problems such as image recognition, speech recognition, and natural language processing. In simple terms, AI is the main concept, ML is a method used to achieve AI, and DL is an advanced form of ML.
+
+---
+
+## How AI/ML Can Help CoreTech Innovation
+
+* Automate repetitive tasks and processes.
+* Analyze large amounts of data efficiently.
+* Improve customer support through intelligent chatbots.
+* Predict trends and outcomes using data analytics.
+* Support better decision-making with AI-powered insights.
+
+---
+
+## Screenshots
 
 The screenshots folder contains:
 
-GitHub Account Screenshot
-
-Kaggle Account Screenshot
-
-Google Colab Notebook Screenshot
-
-
+* GitHub Account Screenshot
+* Kaggle Account Screenshot
+* Google Colab Notebook Screenshot
 
 ---
 
-Repository Structure
+## Repository Structure
 
+text
 coretech-ai-ml-internship/
 │
 ├── README.md
@@ -101,8 +75,6 @@ coretech-ai-ml-internship/
         └── colab.png
 
 
----
+## Submission
 
-Submission
-
-This repository contains the completed Task 01 deliverables for the CoreTech AI/ML Internship Program. It includes account setup screenshots, a Google Colab notebook, introductory information, and basic concepts of AI, Machine Learning, and Deep Learning.
+This repository contains the completed Task 01 deliverables for the CoreTech AI/ML Internship Program.
