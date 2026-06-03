@@ -78,7 +78,9 @@ The following accounts were successfully created:
 The screenshots folder contains:
 
 - GitHub Account Screenshot
+  
 - Kaggle Account Screenshot
+  
 - Google Colab Notebook Screenshot
 
 ---
