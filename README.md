@@ -80,7 +80,7 @@ The screenshots folder contains:
 - GitHub Account Screenshot
   https://github.com/AfnanAliMLEng/coretech-ai-ml-internship/blob/main/Screenshot%202026-06-03%20110536.png
 - Kaggle Account Screenshot
-  
+  https://github.com/AfnanAliMLEng/coretech-ai-ml-internship/blob/main/WhatsApp%20Image%202026-06-03%20at%2011.08.29%20AM.jpeg
 - Google Colab Notebook Screenshot
 https://github.com/AfnanAliMLEng/coretech-ai-ml-internship/blob/main/Screenshot%202026-06-03%20105459.png
 ---
