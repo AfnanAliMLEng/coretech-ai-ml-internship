@@ -3,7 +3,7 @@
 ## Intern Information
 
 * **Name:** Afnan Ali
-* **Program:** BS Information Technology *(or your actual degree/program)*
+* **Program:** BS Information Technology **
 * **University:** *Shaheed Benazir Bhutto University*
 * **City:** Nawabshah
 * **GitHub Repository:** coretech-ai-ml-internship
