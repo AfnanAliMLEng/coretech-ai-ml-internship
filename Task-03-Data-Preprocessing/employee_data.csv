@@ -1,0 +1,7 @@
+EmployeeID,Age,Department,City,Salary,Promoted
+101,24,IT,Lahore,45000.0,Yes
+102,29,HR,Karachi,,No
+103,31,Finance,Islamabad,70000.0,Yes
+104,27,IT,Karachi,55000.0,No
+104,27,IT,Karachi,55000.0,No
+105,35,Marketing,Hyderabad,80000.0,Yes
