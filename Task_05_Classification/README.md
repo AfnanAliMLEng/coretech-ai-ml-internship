@@ -53,7 +53,7 @@ Random Forest was selected as the best-performing model because it achieved the 
 - README.md
 - CoreTech_Project_Status.csv
 
-## Author
+## Intern
 Afnan Ali
 CoreTech AI/ML Internship
 
@@ -65,5 +65,4 @@ Three classification models were trained to predict project status: Logistic Reg
 
 
 
-with open("README.md", "w") as f:
-    f.write(readme_content)
+
