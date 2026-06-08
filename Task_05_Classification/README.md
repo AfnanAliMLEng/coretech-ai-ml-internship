@@ -25,34 +25,11 @@ Build classification models to predict project status using supervised machine l
 - Decision Tree Accuracy: 1.00
 - Random Forest Accuracy: 1.00
 
-## Best Model
-Random Forest achieved the highest accuracy and provided more reliable predictions than the other models.
-
-## Files Included
-- classification_task.ipynb
-- confusion_matrix_heatmap.png
-- README.md
-- CoreTech_Project_Status.csv
-
-## Author
-Afnan Ali
-CoreTech AI/ML Internship
-
-## Short Analysis
-Three classification models were trained to predict project status: Logistic Regression, Decision Tree, and Random Forest. Performance was evaluated using Accuracy Score, Confusion Matrix, and Classification Report. Random Forest achieved the highest accuracy and showed fewer misclassifications in the confusion matrix. Therefore, Random Forest was selected as the best model because it combines multiple decision trees and generally provides better generalization on unseen data.
-
 ## Models Evaluation
 Supervised Learning Classification
 
-### Models Used
-1. Logistic Regression
-2. Decision Tree Classifier
-3. Random Forest Classifier
-
 ### Evaluation Metrics
-
 The models were evaluated using:
-
 - Accuracy Score
 - Confusion Matrix
 - Classification Report
@@ -70,9 +47,22 @@ Random Forest was selected as the best-performing model because it achieved the 
 - It handles complex relationships in the data effectively.
 - It achieved the best overall performance on the test dataset.
 
-### Conclusion
+## Files Included
+- classification_task.ipynb
+- confusion_matrix_heatmap.png
+- README.md
+- CoreTech_Project_Status.csv
 
-After comparing Logistic Regression, Decision Tree, and Random Forest, the Random Forest Classifier was selected as the final model due to its superior accuracy and overall classification performance. Therefore, it is the most suitable model for predicting client project status in this dataset.
+## Author
+Afnan Ali
+CoreTech AI/ML Internship
+
+## Short Analysis
+Three classification models were trained to predict project status: Logistic Regression, Decision Tree, and Random Forest. Performance was evaluated using Accuracy Score, Confusion Matrix, and Classification Report. Random Forest achieved the highest accuracy and showed fewer misclassifications in the confusion matrix. Therefore, Random Forest was selected as the best model because it combines multiple decision trees and generally provides better generalization on unseen data.
+
+
+
+
 
 
 with open("README.md", "w") as f:
