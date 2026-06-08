@@ -106,7 +106,7 @@ coretech-ai-ml-internship/
 
 My learning goals for this internship are:
 
-- Understand the fundamentals of Artificial Intelligence and Machine Learning.
+- Understand the fundamentals of Artificial Intelligence and Machine Learnig.
 - Learn how to work with real-world datasets.
 - Develop practical skills using Python and AI/ML tools.
 - Build and train machine learning models.
