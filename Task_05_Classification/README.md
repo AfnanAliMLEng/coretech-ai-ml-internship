@@ -53,12 +53,12 @@ Random Forest was selected as the best-performing model because it achieved the 
 - README.md
 - CoreTech_Project_Status.csv
 
-## Intern
-Afnan Ali
-CoreTech AI/ML Internship
-
 ## Short Analysis
 Three classification models were trained to predict project status: Logistic Regression, Decision Tree, and Random Forest. Performance was evaluated using Accuracy Score, Confusion Matrix, and Classification Report. Random Forest achieved the highest accuracy and showed fewer misclassifications in the confusion matrix. Therefore, Random Forest was selected as the best model because it combines multiple decision trees and generally provides better generalization on unseen data.
+
+## Intern
+Afnan Ali  
+CoreTech AI/ML Internship
 
 
 
