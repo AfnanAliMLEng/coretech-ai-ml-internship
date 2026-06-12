@@ -2,9 +2,9 @@
 
 ## Intern Information
 
-**Name:** Afnan Ali
-**Education:** 2nd Year Information Technology Student
-**City:** Kazi Ahmed, Sindh, Pakistan
+- **Name:** Afnan Ali
+- **Education:** 2nd Year Information Technology Student
+- **City:** Kazi Ahmed, Sindh, Pakistan
 
 
 
