@@ -1,0 +1,46 @@
+Feedback_ID,Client_Name,Service,Feedback_Text,Rating,Sentiment
+1001,TechVision,AI,Excellent AI solution and very accurate predictions,5,Positive
+1002,FinTech Pro,Cloud,Cloud deployment was smooth and efficient,5,Positive
+1003,DataWorks,Analytics,Analytics dashboard provides valuable insights,5,Positive
+1004,CloudNova,Cloud,Cloud performance exceeded expectations,5,Positive
+1005,Retail Connect,Support,Customer support responded quickly and professionally,5,Positive
+1006,Smart Systems,AI,AI model improved our business efficiency,5,Positive
+1007,Future Corp,Analytics,Great reporting and analytics features,5,Positive
+1008,TechVision,Support,Support team resolved issues promptly,4,Positive
+1009,Digital Hub,Cloud,Cloud infrastructure is reliable and scalable,5,Positive
+1010,CloudNova,AI,AI recommendations are highly accurate,5,Positive
+1011,DataWorks,Analytics,Analytics tools are easy to use,4,Positive
+1012,Retail Connect,Support,Support service needs improvement,2,Negative
+1013,FinTech Pro,Cloud,Cloud service reduced operational costs,5,Positive
+1014,Future Corp,AI,AI automation saved significant time,5,Positive
+1015,Smart Systems,Support,Support response was slow and disappointing,2,Negative
+1016,Digital Hub,Cloud,Cloud migration process was excellent,5,Positive
+1017,CloudNova,AI,AI system delivered outstanding results,5,Positive
+1018,DataWorks,Analytics,Analytics platform is powerful,4,Positive
+1019,Retail Connect,Support,Support quality was average,3,Neutral
+1020,TechVision,AI,AI solution transformed our workflow,5,Positive
+1021,Future Corp,Cloud,Cloud platform is stable and secure,5,Positive
+1022,Smart Systems,Support,Support team was helpful,4,Positive
+1023,FinTech Pro,Analytics,Analytics reports are detailed,4,Positive
+1024,Digital Hub,AI,AI service exceeded expectations,5,Positive
+1025,CloudNova,Cloud,Cloud hosting is excellent,5,Positive
+1026,Retail Connect,Support,Support process was confusing,2,Negative
+1027,DataWorks,Analytics,Analytics helped identify business trends,5,Positive
+1028,TechVision,Cloud,Cloud solution improved performance,5,Positive
+1029,Future Corp,AI,AI insights were extremely useful,5,Positive
+1030,Smart Systems,Support,Support experience was satisfactory,3,Neutral
+1031,CloudNova,AI,AI predictions are reliable,5,Positive
+1032,FinTech Pro,Cloud,Cloud deployment was successful,5,Positive
+1033,Retail Connect,Support,Support quality could be better,2,Negative
+1034,Digital Hub,Analytics,Analytics dashboard looks professional,4,Positive
+1035,DataWorks,AI,Analytics significantly improved decision making,5,Positive
+1036,TechVision,Cloud,Cloud service is outstanding,5,Positive
+1037,CloudNova,Analytics,Analytics generated meaningful insights,5,Positive
+1038,Future Corp,Support,Support response time was acceptable,3,Neutral
+1039,Retail Connect,AI,AI automation increased productivity,5,Positive
+1040,Smart Systems,Cloud,Cloud environment is secure,5,Positive
+1041,FinTech Pro,Analytics,Analytics features are impressive,5,Positive
+1042,Digital Hub,Support,Support team solved the problem quickly,5,Positive
+1043,TechVision,AI,AI tools are innovative,5,Positive
+1044,CloudNova,Cloud,Cloud service is highly recommended,5,Positive
+1045,DataWorks,Analytics,Analytics platform exceeded expectations,5,Positive
