@@ -84,6 +84,7 @@ Task_10/
 │
 ├── app.py
 ├── project_status_model.pkl
+├── Task_10_Model_Deployment.ipynb
 ├── requirements.txt
 ├── webpage.png
 └── README.md
