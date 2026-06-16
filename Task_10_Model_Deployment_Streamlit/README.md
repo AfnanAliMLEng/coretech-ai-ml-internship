@@ -1,7 +1,7 @@
 # Task 10: AI Model Deployment with Streamlit
 
 ## Intern
-: **Name:** Afnan Ali
+**Name:** Afnan Ali
 
 ---
 
