@@ -85,6 +85,7 @@ Task_10/
 ├── app.py
 ├── project_status_model.pkl
 ├── requirements.txt
+├── webpage.png
 └── README.md
 ```
 
