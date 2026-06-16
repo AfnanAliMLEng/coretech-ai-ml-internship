@@ -224,7 +224,6 @@ Task_08/
 ├── accuracy_curve.png
 ├── loss_curve.png
 ├── confusion_matrix.png
-├── model_comparison.png
 └── README.md
 ```
 
