@@ -159,9 +159,10 @@ Customer-Churn-Intelligence-Platform/
 ├── scaler.pkl
 ├── feature_columns.pkl
 
-├── screenshots/
-│   ├── home_page.png
-│   ├── prediction_result.png
+├── Streamlit/
+│   ├── Interface.pdf
+
+├── Graphs/
 │   ├── churn_distribution.png
 │   ├── confusion_matrix.png
 │   └── roc_curve.png
