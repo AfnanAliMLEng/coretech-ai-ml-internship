@@ -154,18 +154,20 @@ Customer-Churn-Intelligence-Platform/
 ├── app.py
 ├── requirements.txt
 ├── Customer_Churn_Project.ipynb
-
+│ 
 ├── customer_churn_model.pkl
 ├── scaler.pkl
 ├── feature_columns.pkl
-
-├── Streamlit/
-│   ├── Interface.pdf
-
+│ 
+├── Streamlit
+│   ├── Interface.pdf (Google Drive Link)
+│ 
 ├── Graphs/
 │   ├── churn_distribution.png
 │   ├── confusion_matrix.png
 │   └── roc_curve.png
+│
+└── Demo_Video.mp4
 ```
 
 ---
