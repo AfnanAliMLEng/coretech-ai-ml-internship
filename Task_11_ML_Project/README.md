@@ -144,6 +144,105 @@ The analysis revealed that customers with short-term contracts, lower loyalty, a
 
 ---
 
+
+## Project Structure
+
+```text
+CoreTech-Customer-Churn-Intelligence/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── Task_11_ML_Project.ipynb
+│
+├── customer_churn_model.pkl
+├── feature_columns.pkl
+├── scaler.pkl  
+│
+├── Graphs/
+│   ├── Multiple EDA Visulaizations and Grphs
+```
+
+---
+
+## How to Run the Application Locally
+
+### Step 1: Clone the Repository
+
+```bash
+git clone <repository-link>
+cd CoreTech-Customer-Churn-Intelligence
+```
+
+### Step 2: Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 3: Launch Streamlit Application
+
+```bash
+streamlit run app.py
+```
+
+### Step 4: Open in Browser
+
+The application will automatically open in your browser.
+
+If not, visit:
+
+```text
+http://localhost:8501
+```
+
+---
+
+## Deployment Assets
+
+The following files are used during deployment:
+
+* Trained Machine Learning Model (.pkl)
+* Feature Engineering Pipeline
+* Streamlit Application (app.py)
+* Requirements File
+* Business Intelligence Dashboard Components
+
+These assets allow real-time churn prediction and business insight generation.
+
+---
+
+## Business Impact
+
+This project helps organizations:
+
+* Identify customers at high risk of churn
+* Reduce customer acquisition costs
+* Improve customer retention strategies
+* Prioritize high-value customers
+* Support data-driven decision making
+* Improve long-term revenue generation
+
+The platform converts predictive analytics into actionable business intelligence.
+
+---
+
+## Future Enhancements
+
+Potential future improvements include:
+
+* Real-Time Database Integration
+* Customer Recommendation Engine
+* Automated Retention Campaign Suggestions
+* Power BI Integration
+* Cloud Deployment
+* Advanced Explainable AI (SHAP Analysis)
+* Deep Learning-Based Churn Prediction
+
+These enhancements can further improve scalability and business value.
+
+
+
 ## Conclusion
 
 This project successfully transforms raw customer data into an intelligent churn prediction and business decision-support platform.
