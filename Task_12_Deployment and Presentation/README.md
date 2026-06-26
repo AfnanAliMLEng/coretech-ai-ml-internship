@@ -273,10 +273,10 @@ Customer-Churn-Intelligence-Platform/
 │   ├── seniorcitizen_vs_churn.png
 │   └── tenure_distribution.png
 │
-├── Streamlit/
+├── Streamlit
 │   └── Interface.pdf (Google Drive Link)
 │
-└── Demo_Video/
+└── Demo_Video
     └── Demo Video (Google Drive Link)
 ```
 
