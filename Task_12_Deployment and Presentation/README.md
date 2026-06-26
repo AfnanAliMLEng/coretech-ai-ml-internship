@@ -158,16 +158,24 @@ Customer-Churn-Intelligence-Platform/
 ├── customer_churn_model.pkl
 ├── scaler.pkl
 ├── feature_columns.pkl
-│ 
+│
+├── Dataset/
+│   ├── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│
 ├── Streamlit
 │   ├── Interface.pdf (Google Drive Link)
 │ 
 ├── Graphs/
 │   ├── churn_distribution.png
-│   ├── confusion_matrix.png
-│   └── roc_curve.png
-│
-└── Demo_Video.mp4
+│   ├── correlation_heatmap.png
+│   ├── monthly_charges_vs_churn.png
+│   ├── risk_categories.png
+│   ├── roc_curve.png
+│   ├── seniorcitizen_vs_churn.png
+│   └── tenure_distribution.png
+│    
+│   
+└── Demo_Video (Google Drive Link)
 ```
 
 ---
